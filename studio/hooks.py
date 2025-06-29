@@ -1,8 +1,8 @@
 app_name = "studio"
 app_title = "Studio"
-app_publisher = "Frappe Technologies Pvt Ltd"
-app_description = "Low-code app builder for Frappe Framework"
-app_email = "rucha@frappe.io"
+app_publisher = "TaskforgeHQ Technologies Pvt Ltd"
+app_description = "Low-code app builder for TaskforgeHQ Framework"
+app_email = "info@taskforgehq.com"
 app_license = "mit"
 # required_apps = []
 

@@ -179,7 +179,7 @@ watch(
 
 usePageMeta(() => {
 	return {
-		title: `${store.activePage?.page_title} | Frappe Studio`,
+		title: `${store.activePage?.page_title} | TaskforgeHQ Studio`,
 	}
 })
 </script>
